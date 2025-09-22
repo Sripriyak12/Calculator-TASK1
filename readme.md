@@ -25,12 +25,12 @@ It performs arithmetic operations and allows the user to run multiple calculatio
 
 ## 📂 Project Structure
 
-
+```
 Java-Console-Calculator/
 │
 ├── ConsoleCalculator.java # Java source code
 ├── README.md # Documentation
-
+```
 ---
 
 ## ▶️ How to Run
@@ -63,9 +63,13 @@ Choose an operation:
 3. Multiplication (*)
 4. Division (/)
 5. Exit
+   
 Enter your choice: 1
+
 Enter first number: 10
+
 Enter second number: 20
+
 Result: 30.0
 
 
